@@ -1,5 +1,7 @@
 /**
  *  Dresden RGBW Lightstrip controller
+ */**
+ *  Dresden RGBW Lightstrip controller
  *
  *   Removed the color adjuster.  Added parsers for level and hue
  *  
